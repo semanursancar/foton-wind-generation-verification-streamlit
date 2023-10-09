@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'foton-wind-generation-verification-streamlit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ECA5EF6310FA42589C035B44490BDC34 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1AEB1007CAD342DC83B6E639771EC52F }}
